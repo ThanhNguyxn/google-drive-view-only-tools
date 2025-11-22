@@ -1,4 +1,4 @@
-# 🌟 Google Drive View-Only File Downloader
+# 📥 Google Drive View-Only File Downloader
 
 Download or print view-only files from Google Drive (Docs, Sheets, Slides) with ease!
 
