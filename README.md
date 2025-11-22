@@ -3,7 +3,7 @@
 > Download or print view-only files from Google Drive - **Docs, Sheets, and Slides**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ThanhNguyxn/How-to-Convert-a-View-Only-Google-Doc-to-a-PDF-On-Google-Drive?style=social)](https://github.com/ThanhNguyxn/How-to-Convert-a-View-Only-Google-Doc-to-a-PDF-On-Google-Drive)
+[![GitHub stars](https://img.shields.io/github/stars/ThanhNguyxn/google-drive-view-only-tools?style=social)](https://github.com/ThanhNguyxn/google-drive-view-only-tools)
 
 ---
 
@@ -186,5 +186,5 @@ If you find this project helpful:
 ## 📞 Get Help
 
 - 📖 **[Read the docs](docs/)** - Comprehensive guides
-- 🐛 **[Report an issue](https://github.com/ThanhNguyxn/How-to-Convert-a-View-Only-Google-Doc-to-a-PDF-On-Google-Drive/issues)** - Bug reports
-- 💬 **[Discussions](https://github.com/ThanhNguyxn/How-to-Convert-a-View-Only-Google-Doc-to-a-PDF-On-Google-Drive/discussions)** - Ask questions
+- 🐛 **[Report an issue](https://github.com/ThanhNguyxn/google-drive-view-only-tools/issues)** - Bug reports
+- 💬 **[Discussions](https://github.com/ThanhNguyxn/google-drive-view-only-tools/discussions)** - Ask questions
