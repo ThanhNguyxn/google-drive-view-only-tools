@@ -2,7 +2,7 @@
 
 > Download or print view-only files from Google Drive - **Docs, Sheets, and Slides**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/ThanhNguyxn/How-to-Convert-a-View-Only-Google-Doc-to-a-PDF-On-Google-Drive?style=social)](https://github.com/ThanhNguyxn/How-to-Convert-a-View-Only-Google-Doc-to-a-PDF-On-Google-Drive)
 
 ---
@@ -30,7 +30,7 @@
 // 3. Click bookmark when viewing any Doc
 ```
 
-👉 **[See detailed instructions →](docs/GOOGLE_DOCS.md)**
+👉 **[See detailed instructions →](../GOOGLE_DOCS.md)**
 
 ---
 
@@ -45,7 +45,7 @@
 // Copy all data → Paste into Excel
 ```
 
-👉 **[See detailed instructions →](docs/GOOGLE_SHEETS.md)**
+👉 **[See detailed instructions →](../GOOGLE_SHEETS.md)**
 
 ---
 
@@ -57,7 +57,7 @@
 // Choose: 1 slide per page (best quality)
 ```
 
-👉 **[See detailed instructions →](docs/GOOGLE_SLIDES.md)**
+👉 **[See detailed instructions →](../GOOGLE_SLIDES.md)**
 
 ---
 
@@ -65,12 +65,12 @@
 
 | Document | Description |
 |----------|-------------|
-| **[Quick Start Guide](QUICKSTART.md)** | Get started in 2 minutes |
-| **[Google Docs Methods](docs/GOOGLE_DOCS.md)** | Complete guide for Docs |
-| **[Google Sheets Methods](docs/GOOGLE_SHEETS.md)** | Complete guide for Sheets |
-| **[Google Slides Methods](docs/GOOGLE_SLIDES.md)** | Complete guide for Slides |
-| **[Troubleshooting](docs/TROUBLESHOOTING.md)** | Common issues & solutions |
-| **[Contributing](CONTRIBUTING.md)** | How to contribute |
+| **[Quick Start Guide](../../QUICKSTART.md)** | Get started in 2 minutes |
+| **[Google Docs Methods](../GOOGLE_DOCS.md)** | Complete guide for Docs |
+| **[Google Sheets Methods](../GOOGLE_SHEETS.md)** | Complete guide for Sheets |
+| **[Google Slides Methods](../GOOGLE_SLIDES.md)** | Complete guide for Slides |
+| **[Troubleshooting](../TROUBLESHOOTING.md)** | Common issues & solutions |
+| **[Contributing](../../CONTRIBUTING.md)** | How to contribute |
 
 ---
 
@@ -78,11 +78,11 @@
 
 Full documentation available in:
 
-- 🇺🇸 **[English](docs/en/)**
-- 🇻🇳 **[Tiếng Việt](docs/vi/)**
-- 🇫🇷 **[Français](docs/fr/)**
-- 🇪🇸 **[Español](docs/es/)**
-- 🇨🇳 **[中文](docs/zh-CN/)**
+- 🇺🇸 **[English](../en/)**
+- 🇻🇳 **[Tiếng Việt](../vi/)**
+- 🇫🇷 **[Français](../fr/)**
+- 🇪🇸 **[Español](../es/)**
+- 🇨🇳 **[中文](../zh-CN/)**
 
 ---
 
@@ -152,7 +152,7 @@ These scripts work by:
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for:
+We welcome contributions! Please see [CONTRIBUTING.md](../../CONTRIBUTING.md) for:
 - Reporting bugs
 - Suggesting features
 - Submitting pull requests
@@ -163,7 +163,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for:
 
 ## 📜 License
 
-This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for details.
+This project is licensed under the **MIT License** - see [LICENSE](../../LICENSE) for details.
 
 ---
 
@@ -186,6 +186,6 @@ If you find this project helpful:
 
 ## 📞 Get Help
 
-- 📖 **[Read the docs](docs/)** - Comprehensive guides
+- 📖 **[Read the docs](../)** - Comprehensive guides
 - 🐛 **[Report an issue](https://github.com/ThanhNguyxn/How-to-Convert-a-View-Only-Google-Doc-to-a-PDF-On-Google-Drive/issues)** - Bug reports
 - 💬 **[Discussions](https://github.com/ThanhNguyxn/How-to-Convert-a-View-Only-Google-Doc-to-a-PDF-On-Google-Drive/discussions)** - Ask questions

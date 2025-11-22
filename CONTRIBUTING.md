@@ -14,7 +14,7 @@ Thank you for your interest in contributing to this project! This guide will hel
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/How-to-Convert-a-View-Only-Google-Doc-to-a-PDF-On-Google-Drive.git
+   git clone https://github.com/ThanhNguyxn/How-to-Convert-a-View-Only-Google-Doc-to-a-PDF-On-Google-Drive.git
    cd How-to-Convert-a-View-Only-Google-Doc-to-a-PDF-On-Google-Drive
    ```
 
@@ -42,7 +42,7 @@ Thank you for your interest in contributing to this project! This guide will hel
 
 If you find a bug or have a suggestion for improving the project:
 
-1. Check if the issue already exists in the [GitHub Issues](https://github.com/yourusername/How-to-Convert-a-View-Only-Google-Doc-to-a-PDF-On-Google-Drive/issues)
+1. Check if the issue already exists in the [GitHub Issues](https://github.com/ThanhNguyxn/How-to-Convert-a-View-Only-Google-Doc-to-a-PDF-On-Google-Drive/issues)
 2. If not, create a new issue with a clear description, including:
    - Steps to reproduce the bug
    - Expected behavior

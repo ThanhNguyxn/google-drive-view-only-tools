@@ -45,6 +45,10 @@
 
 See [README.md](README.md) for complete instructions in multiple languages.
 
+- [Google Docs Guide](docs/GOOGLE_DOCS.md)
+- [Google Sheets Guide](docs/GOOGLE_SHEETS.md)
+- [Google Slides Guide](docs/GOOGLE_SLIDES.md)
+
 ---
 
 ## ⚠️ Legal Notice
